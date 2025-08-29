@@ -1,0 +1,15 @@
+C:\Users\Puspa\Desktop\myGithubProject\CSharpOOPs\CSharpOOPs\bin\Debug\net9.0\CSharpOOPs.exe
+C:\Users\Puspa\Desktop\myGithubProject\CSharpOOPs\CSharpOOPs\bin\Debug\net9.0\CSharpOOPs.deps.json
+C:\Users\Puspa\Desktop\myGithubProject\CSharpOOPs\CSharpOOPs\bin\Debug\net9.0\CSharpOOPs.runtimeconfig.json
+C:\Users\Puspa\Desktop\myGithubProject\CSharpOOPs\CSharpOOPs\bin\Debug\net9.0\CSharpOOPs.dll
+C:\Users\Puspa\Desktop\myGithubProject\CSharpOOPs\CSharpOOPs\bin\Debug\net9.0\CSharpOOPs.pdb
+C:\Users\Puspa\Desktop\myGithubProject\CSharpOOPs\CSharpOOPs\obj\Debug\net9.0\CSharpOOPs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Puspa\Desktop\myGithubProject\CSharpOOPs\CSharpOOPs\obj\Debug\net9.0\CSharpOOPs.AssemblyInfoInputs.cache
+C:\Users\Puspa\Desktop\myGithubProject\CSharpOOPs\CSharpOOPs\obj\Debug\net9.0\CSharpOOPs.AssemblyInfo.cs
+C:\Users\Puspa\Desktop\myGithubProject\CSharpOOPs\CSharpOOPs\obj\Debug\net9.0\CSharpOOPs.csproj.CoreCompileInputs.cache
+C:\Users\Puspa\Desktop\myGithubProject\CSharpOOPs\CSharpOOPs\obj\Debug\net9.0\CSharpOOPs.sourcelink.json
+C:\Users\Puspa\Desktop\myGithubProject\CSharpOOPs\CSharpOOPs\obj\Debug\net9.0\CSharpOOPs.dll
+C:\Users\Puspa\Desktop\myGithubProject\CSharpOOPs\CSharpOOPs\obj\Debug\net9.0\refint\CSharpOOPs.dll
+C:\Users\Puspa\Desktop\myGithubProject\CSharpOOPs\CSharpOOPs\obj\Debug\net9.0\CSharpOOPs.pdb
+C:\Users\Puspa\Desktop\myGithubProject\CSharpOOPs\CSharpOOPs\obj\Debug\net9.0\CSharpOOPs.genruntimeconfig.cache
+C:\Users\Puspa\Desktop\myGithubProject\CSharpOOPs\CSharpOOPs\obj\Debug\net9.0\ref\CSharpOOPs.dll
